@@ -1,0 +1,12 @@
+DROP TABLE violation;
+DROP TABLE conds_norm;
+DROP TABLE air_biological_conds;
+DROP TABLE air_chemical_conds;
+DROP TABLE air_physical_conds;
+DROP TABLE meter_damage;
+DROP TABLE data_providing;
+DROP TABLE maintenance;
+DROP TABLE meter;
+DROP TABLE meter_localization;
+DROP TABLE employee;
+DROP TABLE national_park;
